@@ -18,6 +18,7 @@ _____
   - git commit
   - git status
   - git reset
+  - git restore
   - git diff
   - git rm
   - git clean
