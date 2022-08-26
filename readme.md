@@ -26,7 +26,6 @@ _____
   - git branch
   - git checkout
   - git merge
-  - git mergetool
   - git log
   - git stash
   - git tag
@@ -36,8 +35,6 @@ _____
   - git pull
   - git push
   - git remote
-  - git archive
-  - git submodule
 - Команды осмотра и сравнения
   - git show
   - git shortlog
