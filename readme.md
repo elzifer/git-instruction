@@ -10,10 +10,10 @@ _____
 
 - [Начало работы](/start.md)
   - git config
-- Команды создания репозиториев
+- [Команды создания репозиториев](/repository.md)
   - git init
   - git clone
-- Основные команды:
+- [Основные команды](/main_commands.md)
   - git add
   - git commit
   - git status
@@ -22,27 +22,27 @@ _____
   - git diff
   - git rm
   - git clean
-- Команды для ветвления и слияния
+- [Команды для ветвления и слияния](/trees.md)
   - git branch
   - git checkout
   - git merge
   - git log
   - git stash
   - git tag
-- GitHub - удаленный репозиторий
-- Команды при совместной работе 
+- [GitHub - удаленный репозиторий](/GitHub.md)
+- [Команды при совместной работе](/team.md) 
   - git fetch
   - git pull
   - git push
   - git remote
-- Команды осмотра и сравнения
+- [Команды осмотра и сравнения](/inspection.md)
   - git show
   - git shortlog
-- Команды устранения проблем
+- [Команды устранения проблем](/troubleshooting.md)
   - git bisect
   - git blame
   - git grep
-- Команды внесения исправлений
+- [Команды внесения исправлений](/correction.md)
   - git cherry-pick
   - git rebase
   - git revert
