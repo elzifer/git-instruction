@@ -38,7 +38,6 @@ _____
 - Команды осмотра и сравнения
   - git show
   - git shortlog
-  - git describe 
 - Команды устранения проблем
   - git bisect
   - git blame
